@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../js/vue.js"></script>
+
+</head>
+<body>
+    <div id="box">
+        <button v-on:click="c();changeC(-1)" >改变</button>
+        {{mes}}
+    </div>
+    <script>
+        new Vue({
+            el:'#box',
+            data:{
+                mes:'没有改变'
+            },
+            methods:{
+                changeC:function (n) {
+                    if(n==-1){
+                        this.mes='gaibianle'
+                    }else{
+                        this.mes='没有改变'
+                    }
+
+
+                },
+                c:function(){
+                   alert(1);
+                }
+            }
+
+        })
+    </script>
+</body>
+</html>
