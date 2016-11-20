@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76cdf43c-8ce5-4ae8-b036-d214390c47d6" name="默认" comment="改动了js和css的 位置">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutVue/1.vueBasic1.html" afterPath="$PROJECT_DIR$/aboutVue/1.vueBasic1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutVue/2.achieveDeleteAddReset.html" afterPath="$PROJECT_DIR$/aboutVue/2.achieveDeleteAddReset.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutVue/test.html" afterPath="$PROJECT_DIR$/aboutVue/test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/aboutVue/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/aboutVue/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-3.1.1.min.js" afterPath="$PROJECT_DIR$/aboutVue/js/jquery-3.1.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vue.js" afterPath="$PROJECT_DIR$/aboutVue/js/vue.js" />
     </list>
     <ignored path="practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,6 +78,7 @@
         <option value="$PROJECT_DIR$/aboutVue/2.实现增加删除重置.html" />
         <option value="$PROJECT_DIR$/aboutVue/2.achieveDeleteAddReset.html" />
         <option value="$PROJECT_DIR$/aboutVue/test.html" />
+        <option value="$PROJECT_DIR$/aboutVue/js/bootstrap.js" />
       </list>
     </option>
   </component>
@@ -146,56 +140,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aboutVue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aboutVue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aboutVue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,15 +238,15 @@
       <workItem from="1479197117445" duration="11376000" />
       <workItem from="1479272639182" duration="20127000" />
       <workItem from="1479453431110" duration="5784000" />
-      <workItem from="1479624704205" duration="504000" />
+      <workItem from="1479624704205" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37791000" />
+    <option name="totallyTimeSpent" value="39116000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16517857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
