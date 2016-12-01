@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76cdf43c-8ce5-4ae8-b036-d214390c47d6" name="默认" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutVue/1.vueBasic1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutVue/2.achieveDeleteAddReset.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo2/css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo2/xiaoHuangRen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/css/css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/fonts/Fontby.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/fonts/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/fonts/raphaelicons-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/fonts/raphaelicons-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/fonts/raphaelicons-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example1/fonts/raphaelicons-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vue.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/myPractice.iml" afterPath="$PROJECT_DIR$/.idea/myPractice.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="practice.iws" />
@@ -212,7 +193,7 @@
       <workItem from="1480045747314" duration="10189000" />
       <workItem from="1480121372125" duration="8949000" />
       <workItem from="1480132146953" duration="6189000" />
-      <workItem from="1480568046151" duration="1559000" />
+      <workItem from="1480568046151" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="修改完成">
       <created>1480129825099</created>
@@ -232,7 +213,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95276000" />
+    <option name="totallyTimeSpent" value="95858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,7 +225,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2157738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
